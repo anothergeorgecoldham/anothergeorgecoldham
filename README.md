@@ -4,6 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/georgecoldham)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/georgecoldham)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/gcoldham/)
+![Profile views](https://gpvc.arturio.dev/anothergeorgecoldham)
 
 :office: I am a Cyber Security and Azure cloud engineer working in at [Empired](https://www.empired.com), one of Australia and New Zealands learning Managed Service Providers and Microsoft Partners.
 
@@ -52,4 +53,4 @@ A workshop where I ran attendees through setting up a Raspberry Pi Zero using an
 
 --- 
 [![George's github stats](https://github-readme-stats.vercel.app/api?username=anothergeorgecoldham)](https://github.com/anuraghazra/github-readme-stats)
-![Profile views](https://gpvc.arturio.dev/anothergeorgecoldham)
+
