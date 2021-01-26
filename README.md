@@ -42,7 +42,7 @@ Manned a stand with the Empired Banner and spoke with students around getting in
 **August 2020** CQ University : The landscape of ICT in Australia in 2020 
 A seminar where I discussed current trends in ICT based on the Australian Computer Society's digital pulse.  There was a question and answer session and discussion afterwards.
 
-**April 2020** ComfyCon-AU : (Pwnagotchi)[https://github.com/evilsocket/pwnagotchi], Your new digital pet!
+**April 2020** ComfyCon-AU : [Pwnagotchi](https://github.com/evilsocket/pwnagotchi), Your new digital pet!
 A talk where I shared an open source project I had built using a Raspberry Pi Zero to create a ML Based AI that cracks WIFI. [The talk can be viewed on YouTube here.](https://www.youtube.com/watch?v=ds4k0uHCA-g)
 
 **September 2019** [BsidesPerth](https://bsidesperth.com.au/speaker-details.html) : RaspberryPi Workshop
