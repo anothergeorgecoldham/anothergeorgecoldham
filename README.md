@@ -40,6 +40,5 @@ A seminar where I discussed current trends in ICT based on the Australian Comput
 **April 2020** ComfyCon-AU : (Pwnagotchi)[https://github.com/evilsocket/pwnagotchi], Your new digital pet!
 A talk where I shared an open source project I had built using a Raspberry Pi Zero to create a ML Based AI that cracks WIFI. [The talk can be viewed on YouTube here.](https://www.youtube.com/watch?v=ds4k0uHCA-g)
 
-** September 2019** [BsidesPerth](https://bsidesperth.com.au/speaker-details.html) : RaspberryPi Workshop
+**September 2019** [BsidesPerth](https://bsidesperth.com.au/speaker-details.html) : RaspberryPi Workshop
 A workshop where I ran attendees through setting up a Raspberry Pi Zero using an open source project called [P4wnPi Aloa.](https://github.com/RoganDawes/P4wnP1_aloa)
-
