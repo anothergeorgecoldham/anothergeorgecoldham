@@ -1,4 +1,4 @@
-![](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/1.jpg)
+![](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/header.jpg)
 ### Hi :beers: I'm [George](https://github.com/anothergeorgecoldham), welcome to my page.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/georgecoldham)
