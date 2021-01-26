@@ -27,6 +27,10 @@ I have attained the following Microsoft Certifications.  Reach out if you want t
 |:---:|:---:|:---:|:---:| 
 |![AZ103](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/azure-administrator-associate.png)|![AZ500](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/azure-security-engineer-associate600x600.png)|![MS500](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/microsoft365-security-administrator-associate-600x600.png)|![MS100/101](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/microsoft365-enterprise-adminstrator-expert-600x600.png)|
 
+>“We now accept the fact that learning is a lifelong process of keeping abreast of change. And the most pressing task is to teach people how to learn.”
+>
+>- Peter Drucker
+
 ## Presentations and Workshops Events
 
 **November 2020** [ComfyCon-AU-SE](https://au.comfycon.rocks/2020SE/events) : Learn how Networks work with WireShark
