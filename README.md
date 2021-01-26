@@ -52,4 +52,4 @@ A workshop where I ran attendees through setting up a Raspberry Pi Zero using an
 
 --- 
 [![George's github stats](https://github-readme-stats.vercel.app/api?username=anothergeorgecoldham)](https://github.com/anuraghazra/github-readme-stats)
-![Profile views](https://gpvc.arturio.dev/[anothergeorgecoldham])
+![Profile views](https://gpvc.arturio.dev/anothergeorgecoldham)
