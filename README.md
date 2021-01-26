@@ -1,4 +1,8 @@
-### Hi :wave: I'm George, welcome to my page.
+### Hi :beers: I'm [George](https://github.com/anothergeorgecoldham), welcome to my page.
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/georgecoldham)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/georgecoldham)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/gcoldham/)
 
 :office: I am a Cyber Security and Azure cloud engineer working in at [Empired](https://www.empired.com), one of Australia and New Zealands learning Managed Service Providers and Microsoft Partners.
 
@@ -23,12 +27,6 @@ I have attained the following Microsoft Certifications.  Reach out if you want t
 |![AZ103](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/azure-administrator-associate.png)|![AZ500](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/azure-security-engineer-associate600x600.png)|
 |[**Microsoft 365 Security Administrator Associate**](https://www.youracclaim.com/badges/cb4a5966-b261-42a6-a4c6-5d354ac3c981) | [**Microsoft 365 Enterprise Administrator Expert**](https://www.youracclaim.com/badges/e40a62c9-ee84-4da2-8aef-093555464b2d) |
 ![MS500](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/microsoft365-security-administrator-associate-600x600.png)|![MS100/101](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/microsoft365-enterprise-adminstrator-expert-600x600.png)|
-
-## My Web Links
-
-[Linkedin:](https://www.linkedin.com/in/georgecoldham/)
-[Twitter:](https://www.twitter.com/georgecoldham)
-[Github:](https://github.com/anothergeorgecoldham)
 
 ## Presentations and Workshops Events
 
