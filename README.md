@@ -33,19 +33,19 @@ I have attained the following Microsoft Certifications.  Reach out if you want t
 
 ## Presentations and Workshops Events
 
-**November 2020** [ComfyCon-AU-SE](https://au.comfycon.rocks/2020SE/events) : Learn how Networks work with WireShark
+**November 2020** [ComfyCon-AU-SE](https://au.comfycon.rocks/2020SE/events) : *Learn how Networks work with WireShark* 
 I ran an online workshop running participants through an overview of the OSI layer and how modern networks communicate then gave a 101 lesson on WireShark and how it can be used to understand a network, with some tricks to use for Capture the Flag competitions.
 
-**September 2020** South Metropolitan TAFE : Austcyber Student Event
+**September 2020** South Metropolitan TAFE : *Austcyber Student Event* 
 Manned a stand with the Empired Banner and spoke with students around getting in an ICT career and the value of Microsoft Certification.
 
-**August 2020** CQ University : The landscape of ICT in Australia in 2020 
+**August 2020** CQ University : *The landscape of ICT in Australia in 2020* 
 A seminar where I discussed current trends in ICT based on the Australian Computer Society's digital pulse.  There was a question and answer session and discussion afterwards.
 
-**April 2020** ComfyCon-AU : [Pwnagotchi](https://github.com/evilsocket/pwnagotchi), Your new digital pet!
+**April 2020** ComfyCon-AU : *[Pwnagotchi](https://github.com/evilsocket/pwnagotchi), Your new digital pet!*
 A talk where I shared an open source project I had built using a Raspberry Pi Zero to create a ML Based AI that cracks WIFI. [The talk can be viewed on YouTube here.](https://www.youtube.com/watch?v=ds4k0uHCA-g)
 
-**September 2019** [BsidesPerth](https://bsidesperth.com.au/speaker-details.html) : RaspberryPi Workshop
+**September 2019** *[BsidesPerth](https://bsidesperth.com.au/speaker-details.html) : RaspberryPi Workshop*
 A workshop where I ran attendees through setting up a Raspberry Pi Zero using an open source project called [P4wnPi Aloa.](https://github.com/RoganDawes/P4wnP1_aloa)
 
 --- 
