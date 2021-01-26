@@ -45,3 +45,6 @@ A talk where I shared an open source project I had built using a Raspberry Pi Ze
 
 **September 2019** [BsidesPerth](https://bsidesperth.com.au/speaker-details.html) : RaspberryPi Workshop
 A workshop where I ran attendees through setting up a Raspberry Pi Zero using an open source project called [P4wnPi Aloa.](https://github.com/RoganDawes/P4wnP1_aloa)
+
+--- 
+![](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/footer.jpg)
