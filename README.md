@@ -9,7 +9,6 @@ I am driven by the need to leave a positive change in the peoples lives around m
 I spent half my career as an educator teaching IT networking, administration and security.  The job was amazing and nourished my soul, I actively look for opportunities to continue to do this and frequently mentor my peers at work and friends.
 
 I recently stood down from my volunteering roles with the Australian Computer Society where I was on the state and national managing committees over several years.
----
 
 ## Certifications
 
