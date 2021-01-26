@@ -11,6 +11,8 @@
 
 :yellow_heart: I am driven by the need to leave a positive change in the peoples lives around me, I feel **good** when I know I have left a room better than when I arrived in it (be it virtual or physical).
 
+:headphones: Music is life.
+
 :pray: I spent half my career as an educator teaching IT networking, administration and security.  The job was amazing and nourished my soul, I actively look for opportunities to continue to do this and frequently mentor my peers at work and friends.
 
 :performing_arts: I recently stood down from my volunteering roles with the Australian Computer Society where I was on the state and national managing committees over several years.
