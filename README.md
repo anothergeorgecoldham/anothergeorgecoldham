@@ -29,7 +29,7 @@ I have attained the following Microsoft Certifications.  Reach out if you want t
 
 >“We now accept the fact that learning is a lifelong process of keeping abreast of change. And the most pressing task is to teach people how to learn.”
 >
->- Peter Drucker
+>― Peter Drucker
 
 ## Presentations and Workshops Events
 
