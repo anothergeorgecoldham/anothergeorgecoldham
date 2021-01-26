@@ -7,7 +7,7 @@
 
 :office: I am a Cyber Security and Azure cloud engineer working in at [Empired](https://www.empired.com), one of Australia and New Zealands learning Managed Service Providers and Microsoft Partners.
 
-:family_man_woman_boy_boy: I am a Dad to two young boys and husband to the most patient woman in the world.  I am a tech geek, and avid gamer.  I love reading fantasy novels and camping.  
+:family_man_woman_boy_boy: I am a Dad to two young boys and husband to the most patient woman in the world.  I am a tech geek, and avid gamer.  I love reading fantasy novels, camping, whiskey and delicous food.
 
 :yellow_heart: I am driven by the need to leave a positive change in the peoples lives around me, I feel **good** when I know I have left a room better than when I arrived in it (be it virtual or physical).
 
