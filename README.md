@@ -51,3 +51,4 @@ A talk where I shared an open source project I had built using a Raspberry Pi Ze
 A workshop where I ran attendees through setting up a Raspberry Pi Zero using an open source project called [P4wnPi Aloa.](https://github.com/RoganDawes/P4wnP1_aloa)
 
 --- 
+[![George's github stats](https://github-readme-stats.vercel.app/api?username=anothergeorgecoldham)](https://github.com/anuraghazra/github-readme-stats)
