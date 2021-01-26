@@ -12,7 +12,7 @@
 
 :family_man_woman_boy_boy: I am a Dad to two young boys and husband to the most patient woman in the world.  I am a tech geek, and avid gamer.  I love reading fantasy novels, camping, drinking whiskey and eating delicous food.
 
-:yellow_heart: I am driven by the need to leave a positive change in the peoples lives around me, I feel **good** when I leave a room better than when I arrived in it (be it virtual or physical).
+:yellow_heart: I am driven by the need to leave a positive change in the peoples lives around me, I feel **good** when I leave a room better than when I arrived (be it virtual or physical).
 
 :headphones: Music is life.
 
