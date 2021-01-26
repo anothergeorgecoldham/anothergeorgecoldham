@@ -1,4 +1,3 @@
-### Hi there 👋 my name's George and welcome to my Github Profile!
 
 I am a Cyber Security and Azure cloud engineer working in at [Empired](https://www.empired.com), one of Australia and New Zealands learning Managed Service Providers and Microsoft Partners.
 
@@ -9,6 +8,10 @@ I am driven by the need to leave a positive change in the peoples lives around m
 I spent half my career as an educator teaching IT networking, administration and security.  The job was amazing and nourished my soul, I actively look for opportunities to continue to do this and frequently mentor my peers at work and friends.
 
 I recently stood down from my volunteering roles with the Australian Computer Society where I was on the state and national managing committees over several years.
+
+>“Impossible is just a big word thrown around by small men who find it easier to live in the world they've been given than to explore the power they have to change it. Impossible is not a fact. It's an opinion. Impossible is not a declaration. It's a dare. Impossible is potential. Impossible is temporary. **Impossible is nothing.**”
+>
+>― Muhammad Ali
 
 ## Certifications
 
