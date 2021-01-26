@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 my name's George and welcome to my Github Profile!
+
+I am a Cyber Security and Azure cloud engineer working in at Empired, one of Australia and New Zealands learning Managed Service Providers.
+
+
 
 <!--
 **anothergeorgecoldham/anothergeorgecoldham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
