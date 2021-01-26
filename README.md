@@ -7,17 +7,18 @@
 ![Profile views](https://gpvc.arturio.dev/anothergeorgecoldham)
 ![](https://img.shields.io/github/last-commit/anothergeorgecoldham/anothergeorgecoldham)
 
-:office: I am a Cyber Security and Azure cloud engineer working in at [Empired](https://www.empired.com), one of Australia and New Zealands learning Managed Service Providers and Microsoft Partners.
+## ~$ Whoami?
+:office: I am a Cyber Security and Azure Cloud Engineer working in at [Empired](https://www.empired.com), one of Australia and New Zealands leading Managed Service Providers and Microsoft Partners.
 
-:family_man_woman_boy_boy: I am a Dad to two young boys and husband to the most patient woman in the world.  I am a tech geek, and avid gamer.  I love reading fantasy novels, camping, whiskey and delicous food.
+:family_man_woman_boy_boy: I am a Dad to two young boys and husband to the most patient woman in the world.  I am a tech geek, and avid gamer.  I love reading fantasy novels, camping, drinking whiskey and eating delicous food.
 
-:yellow_heart: I am driven by the need to leave a positive change in the peoples lives around me, I feel **good** when I know I have left a room better than when I arrived in it (be it virtual or physical).
+:yellow_heart: I am driven by the need to leave a positive change in the peoples lives around me, I feel **good** when I leave a room better than when I arrived in it (be it virtual or physical).
 
 :headphones: Music is life.
 
-:pray: I spent half my career as an educator teaching IT networking, administration and security.  The job was amazing and nourished my soul, I actively look for opportunities to continue to do this and frequently mentor my peers at work and friends.
+:pray: I spent half my career as an educator teaching IT Networking, Administration and Security.  The job was amazing and nourished my soul, I actively look for opportunities to continue to do this and frequently mentor my peers at work and friends.
 
-:performing_arts: I recently stood down from my volunteering roles with the Australian Computer Society where I was on the state and national managing committees over several years.
+:performing_arts: I recently stood down from my volunteering roles with the Australian Computer Society where I was on the state and national managing committees over several years. I'm looking for another opportunity to make a difference.
 
 >“Impossible is just a big word thrown around by small men who find it easier to live in the world they've been given than to explore the power they have to change it. Impossible is not a fact. It's an opinion. Impossible is not a declaration. It's a dare. Impossible is potential. Impossible is temporary. **Impossible is nothing.**”
 >
