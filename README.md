@@ -4,10 +4,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/georgecoldham)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/georgecoldham)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/gcoldham/)
-![Profile views](https://gpvc.arturio.dev/anothergeorgecoldham?&style=flat-square)
 ![](https://img.shields.io/github/last-commit/anothergeorgecoldham/anothergeorgecoldham?&style=flat-square)
 ![](https://img.shields.io/github/followers/anothergeorgecoldham?label=Follow&style=flat-square)
-
+![Profile views](https://gpvc.arturio.dev/anothergeorgecoldham)
 ## ~$ whoami?
 :office: I am a Cyber Security and Azure Cloud Engineer working in at [Empired](https://www.empired.com), one of Australia and New Zealands leading Managed Service Providers and Microsoft Partners.
 
