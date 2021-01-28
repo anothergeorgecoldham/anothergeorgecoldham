@@ -57,6 +57,6 @@ A workshop where I ran attendees through setting up a Raspberry Pi Zero using an
 >
 >― Dalai Lama XIV
 
-
 --- 
-[![George's github stats](https://github-readme-stats.vercel.app/api?username=anothergeorgecoldham)](https://github.com/anuraghazra/github-readme-stats)
+[![George's github stats](https://github-readme-stats.vercel.app/api?username=anothergeorgecoldham&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
