@@ -38,6 +38,9 @@ I have attained the following Microsoft Certifications.  Reach out if you want t
 
 ## Presentations and Workshops Events
 
+**April 2021** TAFECyber : *MITRE ATT&CK Framework*
+Presentation to TAFE lecturers who deliver Cyber Security with an overview of the MITRE ATT&CK framework, a description of the stages described within and how it could be applied to delivery.
+
 **November 2020** [ComfyCon-AU-SE](https://au.comfycon.rocks/2020SE/events) : *Learn how Networks work with WireShark* 
 I ran an online workshop running participants through an overview of the OSI layer and how modern networks communicate then gave a 101 lesson on WireShark and how it can be used to understand a network, with some tricks to use for Capture the Flag competitions.
 
