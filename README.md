@@ -38,6 +38,12 @@ I have attained the following Microsoft Certifications.  Reach out if you want t
 
 ## Presentations and Workshops Events
 
+**July 2021** AISA & South Metro TAFE Student Fair : *Application Consent Persistent access for the good and bad!!*
+Presentation to Australian Information Security Association and Students in attendance around Application Content, OAuth2.0 and the potential security risks and mitigations surrounding this subject.
+
+**July 2021** AISA & South Metro TAFE Student Fair : *Demonstration of Microsoft 365 and Azure Security Platforms*
+Two sessions, first was a presentation and demonstration of Defender for Endpoint, Identity and Office 365, Microsoft Cloud App Security with how it works together to provide a secure platform.  Secondly a presentation and demonstration of Azure Security Center, Azure Defender and Azure Sentinel.
+
 **April 2021** TAFECyber : *MITRE ATT&CK Framework*
 Presentation to TAFE lecturers who deliver Cyber Security with an overview of the MITRE ATT&CK framework, a description of the stages described within and how it could be applied to delivery.
 
