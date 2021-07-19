@@ -40,8 +40,11 @@ I have attained the following Microsoft Certifications.  Reach out if you want t
 
 ### Upcoming Talks
 **August 2021** PyconAU SnakeOil Track : *Application Consent Persistent access for the good and bad!!*
+
 **September 2021** BSidesPerth : *Application Consent Persistent access for the good and bad!!*
+
 **October 2021** AISA Branch Forum: *Application Consent Persistent access for the good and bad!!*
+
 
 ### Completed Talks and Workshops
 **July 2021** AISA & South Metro TAFE Student Fair : *Application Consent Persistent access for the good and bad!!*
