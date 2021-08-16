@@ -8,7 +8,7 @@
 ![](https://img.shields.io/github/followers/anothergeorgecoldham?label=Follow&style=flat-square)
 ![Profile views](https://gpvc.arturio.dev/anothergeorgecoldham)
 ## ~$ whoami?
-:office: I am a Cyber Security and Azure Cloud Engineer working in at [Empired](https://www.empired.com), one of Australia and New Zealands leading Managed Service Providers and Microsoft Partners.
+:office: I am a Senior Consultant Cyber Security working in at [Empired](https://www.empired.com), one of Australia and New Zealands leading Managed Service Providers and Microsoft Partners.
 
 :family_man_woman_boy_boy: I am a Dad to two young boys and husband to the most patient woman in the world.  I am a tech geek, and avid gamer.  I love reading fantasy novels, camping, drinking whiskey and eating delicous food.
 
