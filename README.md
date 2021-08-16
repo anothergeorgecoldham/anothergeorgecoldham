@@ -47,6 +47,10 @@ I have attained the following Microsoft Certifications.  Reach out if you want t
 
 
 ### Completed Talks and Workshops
+
+**August 2021** DDDPerth Microsoft Stand : Lego Boost and Azure Percept Machine Learning Demo
+Demonstrated how Azure Percept can be used to operate a Lego Boost vehicle to recognise and avoid traffic cones.  Answered questions and demonstrated how it worked, and the components needed to build it.
+
 **July 2021** AISA & South Metro TAFE Student Fair : *Application Consent Persistent access for the good and bad!!*
 Presentation to Australian Information Security Association and Students in attendance around Application Content, OAuth2.0 and the potential security risks and mitigations surrounding this subject.
 
