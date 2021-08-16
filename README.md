@@ -39,7 +39,7 @@ I have attained the following Microsoft Certifications.  Reach out if you want t
 ## Presentations and Workshops Events
 
 ### Upcoming Talks
-**August 2021** PyconAU SnakeOil Track : *Application Consent Persistent access for the good and bad!!*
+**September 2021** PyconAU SnakeOil Track : *Application Consent Persistent access for the good and bad!!*
 
 **September 2021** BSidesPerth : *Application Consent Persistent access for the good and bad!!*
 
