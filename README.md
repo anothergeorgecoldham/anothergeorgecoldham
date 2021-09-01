@@ -40,7 +40,7 @@ I have attained the following Microsoft Certifications.  Reach out if you want t
 
 Co-Organiser for Perth Microsoft Security Meetup
 
-Matthew Gibney Catholic Primary School ICT Subcommittee School Advisory Council 
+Matthew Gibney Catholic Primary School School Advisory Council & ICT Subcommittee 
 
 
 ## Presentations and Workshops Events
