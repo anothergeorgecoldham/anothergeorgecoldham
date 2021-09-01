@@ -18,7 +18,7 @@
 
 :pray: I spent half my career as an educator teaching IT Networking, Administration and Security.  The job was amazing and nourished my soul, I actively look for opportunities to continue to do this and frequently mentor my peers at work and friends.
 
-:performing_arts: I'm looking for opportunities to volunteer in environments that I can grow my skills and give back to the broader community. I have experience with governance of organistaions at national levels down to managing/organising volunteers and activities.
+:performing_arts: I'm looking for opportunities to volunteer in environments that I can grow my skills and give back to the broader community. I have experience with governance of organisations at national level down to managing/organising volunteers and activities.
 
 >“Impossible is just a big word thrown around by small men who find it easier to live in the world they've been given than to explore the power they have to change it. Impossible is not a fact. It's an opinion. Impossible is not a declaration. It's a dare. Impossible is potential. Impossible is temporary. **Impossible is nothing.**”
 >
