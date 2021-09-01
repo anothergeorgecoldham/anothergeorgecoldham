@@ -36,10 +36,18 @@ I have attained the following Microsoft Certifications.  Reach out if you want t
 >
 >― Peter Drucker
 
+## Volunteering
+
+Co-Organiser for Perth Microsoft Security Meetup
+Matthew Gibney Catholic Primary School ICT Subcommittee School Advisory Council 
+
+
 ## Presentations and Workshops Events
 
 ### Upcoming Talks
 **September 2021** PyconAU SnakeOil Track : *Application Consent Persistent access for the good and bad!!*
+
+**September 2021** Perth Microsoft Security Meetup : *Migrating to Defender 365 – It’s so simple, right?*
 
 **September 2021** BSidesPerth : *Application Consent Persistent access for the good and bad!!*
 
