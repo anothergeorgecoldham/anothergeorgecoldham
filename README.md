@@ -28,9 +28,19 @@
 
 I have attained the following Microsoft Certifications.  Reach out if you want tips or tricks in passing them too!
 
-|[**AZ103**](https://www.youracclaim.com/badges/2a6ef5d9-af59-4e29-879b-b5bb4231a0e1)|[**AZ500**](https://www.youracclaim.com/badges/cf91fa2d-e95f-4cd9-95cf-51e0c8c4c261)|[**MS500**](https://www.youracclaim.com/badges/cb4a5966-b261-42a6-a4c6-5d354ac3c981)|[**MS100/101**](https://www.youracclaim.com/badges/e40a62c9-ee84-4da2-8aef-093555464b2d)|
+|[**AZ103**](https://www.credly.com/earner/earned/badge/a82a6b99-96b8-4a90-8cf2-2f12a6346131)
+|[**AZ500**](https://www.credly.com/earner/earned/badge/17953ddb-8372-4164-9514-d6d8fc5a049d)
+|[**MS500**](https://www.credly.com/earner/earned/badge/453492d3-7e9d-4b4e-bf69-de39d328eb4a)
+|[**MS100/101**](https://www.credly.com/earner/earned/badge/b4dbe8cb-7c5b-4384-8db4-f7b282044a69)
+|[**SC200**](https://www.credly.com/earner/earned/badge/ea5fcaf1-4f50-4d57-90f1-fca773e6e267)
+|[**SC400**](https://www.credly.com/earner/earned/badge/667b03d7-9b5e-43d7-a9d1-b24f1a2d5ef5)
 |:---:|:---:|:---:|:---:| 
-|![AZ103](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/azure-administrator-associate.png)|![AZ500](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/azure-security-engineer-associate600x600.png)|![MS500](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/microsoft365-security-administrator-associate-600x600.png)|![MS100/101](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/microsoft365-enterprise-adminstrator-expert-600x600.png)|
+|![AZ103](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/azure-administrator-associate.png)
+|![AZ500](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/azure-security-engineer-associate600x600.png)
+|![MS500](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/microsoft365-security-administrator-associate-600x600.png)
+|![MS100/101](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/microsoft365-enterprise-adminstrator-expert-600x600.png)
+|![SC200](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/security-operations-analyst-associate-600x600.png)
+|![SC400](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/information-protection-administrator-associate-600x600.png)
 
 >“We now accept the fact that learning is a lifelong process of keeping abreast of change. And the most pressing task is to teach people how to learn.”
 >
