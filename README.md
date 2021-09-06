@@ -46,7 +46,6 @@ Matthew Gibney Catholic Primary School School Advisory Council & ICT Subcommitte
 ## Presentations and Workshops Events
 
 ### Upcoming Talks
-**September 2021** PyconAU SnakeOil Track : *Application Consent Persistent access for the good and bad!!*
 
 **September 2021** Perth Microsoft Security Meetup : *Migrating to Defender 365 – It’s so simple, right?*
 
