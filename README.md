@@ -56,6 +56,12 @@ Matthew Gibney Catholic Primary School School Advisory Council & ICT Subcommitte
 
 ### Completed Talks and Workshops
 
+**September 2021** [BSidesPerth](https://www.youtube.com/watch?v=H5Xrr7xBKY8) : *Application Consent Persistent access for the good and bad!!*
+Discussed reworked application consent talk for BSidesPerth explaining how Application Consent is used, its relationship with OAUTH and authentication, profiled risk with Application Consent in the corporate environment, how to monitor and how to defend against the bad guys doing things.  I also snuck in a locknote as it was the end of the day and that was great!
+
+**September 2021** Perth Microsoft Security Meetup : *Migrating to Defender 365 – It’s so simple, right?*
+Under Chatham House Rules we had an open dialogue including a representative from the client team and we spoke about the journey Defender 365.  The conversation was broad, touching on all of the Microsoft 365 Defender defployment in the aftermath of a security incident.  Covering Identity, Endpoint and Office as well as other integrations.  Sharing technical and business problems we covered the previous 12 months work warts and all.
+
 **August 2021** DDDPerth Microsoft Stand : Lego Boost and Azure Percept Machine Learning Demo
 Demonstrated how Azure Percept can be used to operate a Lego Boost vehicle to recognise and avoid traffic cones.  Answered questions and demonstrated how it worked, and the components needed to build it.
 
