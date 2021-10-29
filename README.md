@@ -48,7 +48,9 @@ Matthew Gibney Catholic Primary School School Advisory Council & ICT Subcommitte
 ### Upcoming Talks
 
 **November 2021** [AISA Perth Sec](https://www.aisa.org.au/Public/Events/Conferences/Perth%20Conference%202021/Perth-Conference-2019.aspx?WebsiteKey=f9fae671-69a2-4102-8f2f-cc24ed48d26c&hkey=c50765bf-01f3-480d-8d88-3909da488585&PerthSEC_2021=2#PerthSEC_2021) : The Essential eight - a light hearted review of the controls and why you didn't implement them.
+
 **November 2021** [BIAP 2021 WA Cyber Security Leadership Summit](https://biapac.com/events/wa-cyber-leadership-summit) : A look at Insider Risk
+
 **December 2021** [Latency Conference](https://www.latencyconf.io) : Ultimate Robot and Azure Percept Project @ Microsoft Stand
 
 ### Completed Talks and Workshops
