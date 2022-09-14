@@ -45,16 +45,16 @@ Matthew Gibney Catholic Primary School School Advisory Council & ICT Subcommitte
 
 ### Upcoming Talks
 
-**October 2022** [Games Connect Asia Pacific 2022] Lets Talk LiveOps!
-**October 2022** [Melbourne Asia CyberCon 2022] Application Control is Hard - Lessons from the trenches
-**November 2022** [Perth Asia Cyber Conference 2022] Application Control is Hard - Lessons from the trenches
+**October 2022** [Games Connect Asia Pacific 2022]() : Lets Talk LiveOps!
+**October 2022** [Melbourne Asia CyberCon 2022]() : Application Control is Hard - Lessons from the trenches
+**November 2022** [Perth Asia Cyber Conference 2022]() : Application Control is Hard - Lessons from the trenches
 
 
 ### Completed Talks and Workshops
 
-**September 2022** [Microsoft GeekReady APJ] : This presentation discusses what Application Control is, why we need it, business reasons for deploying the solution, how to be successful doing this, and all the pain points I have experienced deploying the solution. 
+**September 2022** [Microsoft GeekReady APJ]() : This presentation discusses what Application Control is, why we need it, business reasons for deploying the solution, how to be successful doing this, and all the pain points I have experienced deploying the solution. 
 
-**September 2022** [Australian Computer Society WA Branch - Branch Forum] : A discussion around the skilling requirement for the Cyber Security industry.  Co-presenting with my twin brother we will provide our insights from our experiences and engage with the audience to share experiences and stories.
+**September 2022** [Australian Computer Society WA Branch - Branch Forum]() : A discussion around the skilling requirement for the Cyber Security industry.  Co-presenting with my twin brother we will provide our insights from our experiences and engage with the audience to share experiences and stories.
 
 **September 2022** [DDD Perth 2022](https://dddperth.com) : How your simple application could lead to your customers losing their life savings! A discussion on what motivates a cyber criminal to steal customer data and what you can do to reduce the risk of this occuring.
 
