@@ -8,7 +8,7 @@
 ![](https://img.shields.io/github/followers/anothergeorgecoldham?label=Follow&style=flat-square)
 ![Profile views](https://gpvc.arturio.dev/anothergeorgecoldham)
 ## ~$ whoami?
-:office: I am a Customer Engineer - Security working  at [Microsoft](https://www.microsoft.com)
+:office: I am a Cloud Solution Architect Cyber Security working  at [Microsoft](https://www.microsoft.com)
 
 :family_man_woman_boy_boy: I am a Dad to two young boys and husband to the most patient woman in the world.  I am a tech geek, and avid gamer.  I love reading fantasy novels, camping, drinking whiskey and eating delicous food.
 
@@ -28,9 +28,9 @@
 
 I have attained the following Microsoft Certifications.  Reach out if you want tips or tricks in passing them too!
 
-|[**AZ104**](https://www.credly.com/badges/a82a6b99-96b8-4a90-8cf2-2f12a6346131/public_url)|[**AZ500**](https://www.credly.com/badges/17953ddb-8372-4164-9514-d6d8fc5a049d/public_url)|[**MS500**](https://www.credly.com/badges/453492d3-7e9d-4b4e-bf69-de39d328eb4a/public_url)|[**MS100/101**](https://www.credly.com/badges/b4dbe8cb-7c5b-4384-8db4-f7b282044a69/public_url)|[**SC200**](https://www.credly.com/badges/ea5fcaf1-4f50-4d57-90f1-fca773e6e267/public_url)|[**SC300**](https://www.credly.com/badges/69e7b8d9-a866-40cf-9aaa-ad1967af46a8/public_url)|[**SC400**](https://www.credly.com/badges/667b03d7-9b5e-43d7-a9d1-b24f1a2d5ef5/public_url)|
+|[**AZ104**](https://www.credly.com/badges/910c0fb1-8f58-4cd0-a25d-8af54bbedd85/public_url)|[**AZ500**](https://www.credly.com/badges/17953ddb-8372-4164-9514-d6d8fc5a049d/public_url)|[**MS500**](https://www.credly.com/badges/453492d3-7e9d-4b4e-bf69-de39d328eb4a/public_url)|[**MS100/101**](https://www.credly.com/badges/b4dbe8cb-7c5b-4384-8db4-f7b282044a69/public_url)|[**SC200**](https://www.credly.com/badges/ea5fcaf1-4f50-4d57-90f1-fca773e6e267/public_url)|[**SC300**](https://www.credly.com/badges/69e7b8d9-a866-40cf-9aaa-ad1967af46a8/public_url)|[**SC400**](https://www.credly.com/badges/667b03d7-9b5e-43d7-a9d1-b24f1a2d5ef5/public_url)|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|![AZ103](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/azure-administrator-associate.png)|![AZ500](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/azure-security-engineer-associate600x600.png)|![MS500](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/microsoft365-security-administrator-associate-600x600.png)|![MS100/101](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/microsoft365-enterprise-adminstrator-expert-600x600.png)|![SC200](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/security-operations-analyst-associate-600x600.png)|![SC300](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/identity-and-access-administrator-associate-600x600.png)|![SC400](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/information-protection-administrator-associate-600x600.png)|
+|![AZ104](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/azure-administrator-associate.png)|![AZ500](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/azure-security-engineer-associate600x600.png)|![MS500](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/microsoft365-security-administrator-associate-600x600.png)|![MS100/101](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/microsoft365-enterprise-adminstrator-expert-600x600.png)|![SC200](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/security-operations-analyst-associate-600x600.png)|![SC300](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/identity-and-access-administrator-associate-600x600.png)|![SC400](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/information-protection-administrator-associate-600x600.png)|
 
 >“We now accept the fact that learning is a lifelong process of keeping abreast of change. And the most pressing task is to teach people how to learn.”
 >
@@ -45,8 +45,18 @@ Matthew Gibney Catholic Primary School School Advisory Council & ICT Subcommitte
 
 ### Upcoming Talks
 
+**October 2022** [Games Connect Asia Pacific 2022] Lets Talk LiveOps!
+**October 2022** [Melbourne Asia CyberCon 2022] Application Control is Hard - Lessons from the trenches
+**November 2022** [Perth Asia Cyber Conference 2022] Application Control is Hard - Lessons from the trenches
+
 
 ### Completed Talks and Workshops
+
+**September 2022** [Microsoft GeekReady APJ] : This presentation discusses what Application Control is, why we need it, business reasons for deploying the solution, how to be successful doing this, and all the pain points I have experienced deploying the solution. 
+
+**September 2022** [Australian Computer Society WA Branch - Branch Forum] : A discussion around the skilling requirement for the Cyber Security industry.  Co-presenting with my twin brother we will provide our insights from our experiences and engage with the audience to share experiences and stories.
+
+**September 2022** [DDD Perth 2022](https://dddperth.com) : How your simple application could lead to your customers losing their life savings! A discussion on what motivates a cyber criminal to steal customer data and what you can do to reduce the risk of this occuring.
 
 **November 2021** [AISA Perth Sec](https://www.aisa.org.au/Public/Events/Conferences/Perth%20Conference%202021/Perth-Conference-2019.aspx?WebsiteKey=f9fae671-69a2-4102-8f2f-cc24ed48d26c&hkey=c50765bf-01f3-480d-8d88-3909da488585&PerthSEC_2021=2#PerthSEC_2021) : The Essential eight - a light hearted review of the controls and why you didn't implement them.  Presented in the Main stream at AISA this talk discussed the Eight Controls with an overview of the challenges to implement the controls.
 
