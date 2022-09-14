@@ -45,17 +45,17 @@ Matthew Gibney Catholic Primary School School Advisory Council & ICT Subcommitte
 
 ### Upcoming Talks
 
-**October 2022** [Games Connect Asia Pacific 2022]() : Lets Talk LiveOps!
+**October 2022** [Games Connect Asia Pacific 2022](https://gcap2022ambition.sched.com/event/18bxc/lets-talk-about-liveops) : Lets Talk LiveOps!
 
-**October 2022** [Melbourne Asia CyberCon 2022]() : Application Control is Hard - Lessons from the trenches
+**October 2022** [Melbourne AISA CyberCon 2022](https://cyberconference.com.au/) : Application Control is Hard - Lessons from the trenches
 
-**November 2022** [Perth Asia Cyber Conference 2022]() : Application Control is Hard - Lessons from the trenches
+**November 2022** [AISA PerthSEC Conference 2022](https://www.aisa.org.au/Public/Public/Events/Event_Display.aspx?EventKey=52ddba19-73b4-4a77-8d99-9b986dbc6a12&iSearchResult=true) : Application Control is Hard - Lessons from the trenches
 
 ### Completed Talks and Workshops
 
-**September 2022** [Microsoft GeekReady APJ]() : This presentation discusses what Application Control is, why we need it, business reasons for deploying the solution, how to be successful doing this, and all the pain points I have experienced deploying the solution. 
+**September 2022** [Microsoft GeekReady APJ](https://www.microsoft.com) : This presentation discusses what Application Control is, why we need it, business reasons for deploying the solution, how to be successful doing this, and all the pain points I have experienced deploying the solution. 
 
-**September 2022** [Australian Computer Society WA Branch - Branch Forum]() : A discussion around the skilling requirement for the Cyber Security industry.  Co-presenting with my twin brother we will provide our insights from our experiences and engage with the audience to share experiences and stories.
+**September 2022** [Australian Computer Society WA Branch - Branch Forum](https://www.acs.org.au) : A discussion around the skilling requirement for the Cyber Security industry.  Co-presenting with my twin brother we will provide our insights from our experiences and engage with the audience to share experiences and stories.
 
 **September 2022** [DDD Perth 2022](https://dddperth.com) : How your simple application could lead to your customers losing their life savings! A discussion on what motivates a cyber criminal to steal customer data and what you can do to reduce the risk of this occuring.
 
