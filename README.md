@@ -46,9 +46,10 @@ Matthew Gibney Catholic Primary School School Advisory Council & ICT Subcommitte
 ### Upcoming Talks
 
 **October 2022** [Games Connect Asia Pacific 2022]() : Lets Talk LiveOps!
-**October 2022** [Melbourne Asia CyberCon 2022]() : Application Control is Hard - Lessons from the trenches
-**November 2022** [Perth Asia Cyber Conference 2022]() : Application Control is Hard - Lessons from the trenches
 
+**October 2022** [Melbourne Asia CyberCon 2022]() : Application Control is Hard - Lessons from the trenches
+
+**November 2022** [Perth Asia Cyber Conference 2022]() : Application Control is Hard - Lessons from the trenches
 
 ### Completed Talks and Workshops
 
