@@ -40,7 +40,8 @@ I have attained the following Microsoft Certifications.  Reach out if you want t
 
 ## Volunteering
 
-Matthew Gibney Catholic Primary School School Advisory Council & ICT Subcommittee Treasurer
+ABCN Mentor to the amazing Kyle!
+ThinkUKnow facilitator
 
 
 ## Presentations and Workshops Events
