@@ -8,17 +8,17 @@
 ![](https://img.shields.io/github/followers/anothergeorgecoldham?label=Follow&style=flat-square)
 ![Profile views](https://gpvc.arturio.dev/anothergeorgecoldham)
 ## ~$ whoami?
-:office: I am a Cloud Solution Architect Cyber Security working  at [Microsoft](https://www.microsoft.com)
+:office: I am a Cloud Solution Architect specializing in the Microsoft Security Platform at [Microsoft ANZ](https://www.microsoft.com).
 
-:family_man_woman_boy_boy: I am a Dad to two young boys and husband to the most patient woman in the world.  I am a tech geek, and avid gamer.  I love reading fantasy novels, camping, drinking whiskey and eating delicous food.
+:family_man_woman_boy_boy: A proud dad of two energetic boys and husband to an incredibly patient wife. I'm a tech enthusiast, avid gamer, fantasy novel reader, camper, whiskey lover, and food connoisseur.
 
-:yellow_heart: I am driven by the need to leave a positive change in the peoples lives around me, I feel **good** when I leave a room better than when I arrived (be it virtual or physical).
+:yellow_heart: My passion lies in making a positive impact on the lives of those around me. I strive to leave every space—virtual or physical—better than I found it.
 
-:headphones: Music is life.
+:headphones: Music fuels my creativity and keeps me grounded.
 
-:pray: I spent half my career as an educator teaching IT Networking, Administration and Security.  The job was amazing and nourished my soul, I actively look for opportunities to continue to do this and frequently mentor my peers at work and friends.
+:pray: With half my career spent as an educator in IT Networking, Administration, and Security, I found immense joy in teaching and mentoring. I continue to seek opportunities to share knowledge, mentor peers, and inspire others.
 
-:performing_arts: I'm looking for opportunities to volunteer in environments that I can grow my skills and give back to the broader community. I have experience with governance of organisations at national level down to managing/organising volunteers and activities.
+:performing_arts: I’m eager to volunteer in environments where I can grow my skills while giving back to the community. My experience spans governance at a national level to organizing and managing volunteers and activities.
 
 >“Impossible is just a big word thrown around by small men who find it easier to live in the world they've been given than to explore the power they have to change it. Impossible is not a fact. It's an opinion. Impossible is not a declaration. It's a dare. Impossible is potential. Impossible is temporary. **Impossible is nothing.**”
 >
@@ -28,85 +28,45 @@
 
 I have attained the following Microsoft Certifications.  Reach out if you want tips or tricks in passing them too!
 
-|[**AZ104**](https://www.credly.com/badges/910c0fb1-8f58-4cd0-a25d-8af54bbedd85/public_url)|[**AZ500**](https://www.credly.com/badges/17953ddb-8372-4164-9514-d6d8fc5a049d/public_url)|[**MS500**](https://www.credly.com/badges/453492d3-7e9d-4b4e-bf69-de39d328eb4a/public_url)|[**MS100/101**](https://www.credly.com/badges/b4dbe8cb-7c5b-4384-8db4-f7b282044a69/public_url)|
-|:---:|:---:|:---:|:---:|
-|![AZ104](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/azure-administrator-associate.png)|![AZ500](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/azure-security-engineer-associate600x600.png)|![MS500](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/microsoft365-security-administrator-associate-600x600.png)|![MS100/101](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/microsoft365-enterprise-adminstrator-expert-600x600.png)|
-|[**SC100**](https://www.credly.com/badges/4cffa897-a3fb-4d8c-b00d-2f61675d0edf/public_url)|[**SC200**](https://www.credly.com/badges/ea5fcaf1-4f50-4d57-90f1-fca773e6e267/public_url)|[**SC300**](https://www.credly.com/badges/69e7b8d9-a866-40cf-9aaa-ad1967af46a8/public_url)|[**SC400**](https://www.credly.com/badges/667b03d7-9b5e-43d7-a9d1-b24f1a2d5ef5/public_url)|
-|![SC100](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/SC100%20(1).png)|![SC200](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/security-operations-analyst-associate-600x600.png)|![SC300](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/identity-and-access-administrator-associate-600x600.png)|![SC400](https://github.com/anothergeorgecoldham/anothergeorgecoldham/blob/main/images/information-protection-administrator-associate-600x600.png)|
+| **Certification Name**                                                                 | **Status**   | **Earned On**       |
+|-----------------------------------------------------------------------------------|----------|-----------------|
+| Microsoft Certified Trainer                                                                           | Active   | 3 May 2023      |
+| Microsoft Certified: Identity and Access Administrator Associate                 | Active   | 15 October 2021 |
+| Microsoft 365 Certified: Administrator Expert                                    | Active   | 30 October 2020 |
+| Microsoft Certified: Azure AI Engineer Associate                                 | Active   | 2 January 2025  |
+| Microsoft Certified: Azure Administrator Associate                               | Active   | 24 January 2020 |
+| Microsoft Certified: Azure Security Engineer Associate                           | Active   | 31 January 2020 |
+| Microsoft Certified: Azure Solutions Architect Expert                            | Active   | 21 February 2023 |
+| Microsoft Certified: Information Protection and Compliance Administrator Associate| Active   | 20 April 2021   |
+| Microsoft Certified: Cybersecurity Architect Expert                              | Active   | 30 June 2022    |
+| Microsoft Certified: Security Operations Analyst Associate                       | Active   | 3 September 2021|
+| Microsoft Certified: Power Platform Fundamentals                                 | Active   | 13 February 2023|
+| Microsoft Certified: Azure AI Fundamentals                                       | Active   | 13 February 2023|
+| Microsoft Certified: Azure Data Fundamentals                                     | Active   | 12 February 2023|
+| Microsoft 365 Certified: Fundamentals                                            | Active   | 10 February 2023|
+| Microsoft Certified: Azure Fundamentals                                          | Active   | 10 February 2023|
+| Microsoft Certified: Security, Compliance, and Identity Fundamentals             | Active   | 21 April 2022   |
+| Microsoft 365 Certified: Security Administrator Associate                        | Expired  | 24 February 2020|
+| Microsoft Certified: Azure Administrator Associate (Legacy)                      | Expired  | 24 January 2020 |
+| Microsoft 365 Certified: Teams Administrator Associate                           | Expired  | 9 December 2019 |
 
 >“We now accept the fact that learning is a lifelong process of keeping abreast of change. And the most pressing task is to teach people how to learn.”
 >
 >― Peter Drucker
 
+## Meetups
+
+I am co-organiser for the following meetups
+
+- Perth Microsoft Security Meetup
+- Perth Github Meetup
+- Microsoft Student Accelerator
+
 ## Volunteering
 
-ABCN Mentor to the amazing Kyle!
+- ABCN Mentor to the amazing Kyle!
+- ThinkUKnow facilitator
 
-ThinkUKnow facilitator
-
-
-## Presentations and Workshops Events
-
-### Upcoming Talks
-
-**October 2022** [Games Connect Asia Pacific 2022](https://gcap2022ambition.sched.com/event/18bxc/lets-talk-about-liveops) : Lets Talk LiveOps!
-
-**October 2022** [Melbourne AISA CyberCon 2022](https://cyberconference.com.au/) : Application Control is Hard - Lessons from the trenches
-
-**November 2022** [AISA PerthSEC Conference 2022](https://www.aisa.org.au/Public/Public/Events/Event_Display.aspx?EventKey=52ddba19-73b4-4a77-8d99-9b986dbc6a12&iSearchResult=true) : Application Control is Hard - Lessons from the trenches
-
-### Completed Talks and Workshops
-
-**September 2022** [Microsoft GeekReady APJ](https://www.microsoft.com) : This presentation discusses what Application Control is, why we need it, business reasons for deploying the solution, how to be successful doing this, and all the pain points I have experienced deploying the solution. 
-
-**September 2022** [Australian Computer Society WA Branch - Branch Forum](https://www.acs.org.au) : A discussion around the skilling requirement for the Cyber Security industry.  Co-presenting with my twin brother we will provide our insights from our experiences and engage with the audience to share experiences and stories.
-
-**September 2022** [DDD Perth 2022](https://dddperth.com) : How your simple application could lead to your customers losing their life savings! A discussion on what motivates a cyber criminal to steal customer data and what you can do to reduce the risk of this occuring.
-
-**November 2021** [AISA Perth Sec](https://www.aisa.org.au/Public/Events/Conferences/Perth%20Conference%202021/Perth-Conference-2019.aspx?WebsiteKey=f9fae671-69a2-4102-8f2f-cc24ed48d26c&hkey=c50765bf-01f3-480d-8d88-3909da488585&PerthSEC_2021=2#PerthSEC_2021) : The Essential eight - a light hearted review of the controls and why you didn't implement them.  Presented in the Main stream at AISA this talk discussed the Eight Controls with an overview of the challenges to implement the controls.
-
-**November 2021** [BIAP 2021 WA Cyber Security Leadership Summit](https://biapac.com/events/wa-cyber-leadership-summit) : A look at Insider Risk discussing what it is and mitigations to reduce the risk within your organisation.
-
-**December 2021** [Latency Conference](https://www.latencyconf.io) : Ultimate Robot and Azure Percept Project @ Microsoft Stand.  Demonstrated this project build leveraging the power of Azure Cognitive Vision services with Object regocnition driving the robot to avoid the traffic cones or run over the lego men!
-
-**November 2021** South Metro TAFE Open Day : *Industry and career guidance for students*
-Supported the Empired stand at this event to provide career guidance with interested students, explain about Empired and encourage good candiates to consider Empired as a place of work.  Discuss Microsoft Certification as a viable training pathway post TAFE.
-
-**October 2021** [AISA Branch Forum](https://www.aisa.org.au/Public/Public/Branches/Perth/Perth_Branch.aspx): *Application Consent Persistent access for the good and bad!!*
-The same application consent talk for BSidesPerth explaining how Application Consent is used, its relationship with OAUTH and authentication, profiled risk with Application Consent in the corporate environment, how to monitor and how to defend against the bad guys doing things.
-
-**September 2021** [BSidesPerth](https://www.bsidesperth.com.au) : *Application Consent Persistent access for the good and bad!!*
-Discussed reworked application consent talk for BSidesPerth explaining how Application Consent is used, its relationship with OAUTH and authentication, profiled risk with Application Consent in the corporate environment, how to monitor and how to defend against the bad guys doing things.  I also snuck in a locknote as it was the end of the day and that was great! [Youtube link here](https://www.youtube.com/watch?v=H5Xrr7xBKY8)
-
-**September 2021** Perth Microsoft Security Meetup : *Migrating to Defender 365 – It’s so simple, right?*
-Under Chatham House Rules we had an open dialogue including a representative from the client team and we spoke about the journey Defender 365.  The conversation was broad, touching on all of the Microsoft 365 Defender defployment in the aftermath of a security incident.  Covering Identity, Endpoint and Office as well as other integrations.  Sharing technical and business problems we covered the previous 12 months work warts and all.
-
-**August 2021** DDDPerth Microsoft Stand : Lego Boost and Azure Percept Machine Learning Demo
-Demonstrated how Azure Percept can be used to operate a Lego Boost vehicle to recognise and avoid traffic cones.  Answered questions and demonstrated how it worked, and the components needed to build it.
-
-**July 2021** AISA & South Metro TAFE Student Fair : *Application Consent Persistent access for the good and bad!!*
-Presentation to Australian Information Security Association and Students in attendance around Application Content, OAuth2.0 and the potential security risks and mitigations surrounding this subject.
-
-**July 2021** AISA & South Metro TAFE Student Fair : *Demonstration of Microsoft 365 and Azure Security Platforms*
-Two sessions, first was a presentation and demonstration of Defender for Endpoint, Identity and Office 365, Microsoft Cloud App Security with how it works together to provide a secure platform.  Secondly a presentation and demonstration of Azure Security Center, Azure Defender and Azure Sentinel.
-
-**April 2021** TAFECyber : *MITRE ATT&CK Framework*
-Presentation to TAFE lecturers who deliver Cyber Security with an overview of the MITRE ATT&CK framework, a description of the stages described within and how it could be applied to delivery.
-
-**November 2020** [ComfyCon-AU-SE](https://au.comfycon.rocks/2020SE/events) : *Learn how Networks work with WireShark* 
-I ran an online workshop running participants through an overview of the OSI layer and how modern networks communicate then gave a 101 lesson on WireShark and how it can be used to understand a network, with some tricks to use for Capture the Flag competitions.
-
-**September 2020** South Metropolitan TAFE : *Austcyber Student Event* 
-Manned a stand with the Empired Banner and spoke with students around getting in an ICT career and the value of Microsoft Certification.
-
-**August 2020** CQ University : *The landscape of ICT in Australia in 2020* 
-A seminar where I discussed current trends in ICT based on the Australian Computer Society's digital pulse.  There was a question and answer session and discussion afterwards.
-
-**April 2020** ComfyCon-AU : *[Pwnagotchi](https://github.com/evilsocket/pwnagotchi), Your new digital pet!*
-A talk where I shared an open source project I had built using a Raspberry Pi Zero to create a ML Based AI that cracks WIFI. [The talk can be viewed on YouTube here.](https://www.youtube.com/watch?v=ds4k0uHCA-g)
-
-**September 2019** *[BsidesPerth](https://bsidesperth.com.au/speaker-details.html) : RaspberryPi Workshop*
-A workshop where I ran attendees through setting up a Raspberry Pi Zero using an open source project called [P4wnPi Aloa.](https://github.com/RoganDawes/P4wnP1_aloa)
 
 >“Share your knowledge. It is a way to achieve immortality.” 
 >
