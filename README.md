@@ -31,24 +31,24 @@ I have attained the following Microsoft Certifications.  Reach out if you want t
 | **Certification Name**                                                                 | **Status**   | **Earned On**       |
 |-----------------------------------------------------------------------------------|----------|-----------------|
 | Microsoft Certified Trainer                                                                           | Active   | 03 May 2023      |
-| SC-300 Identity and Access Administrator Associate                 | Active   | 15 Oct 2021 |
-| MS-102 Administrator Expert                                    | Active   | 30 Oct 2020 |
-| AI-102 Azure AI Engineer Associate                                 | Active   | 02 Jan 2025  |
-| AZ-104 Azure Administrator Associate                               | Active   | 24 Jan 2020 |
-| AZ-500 Azure Security Engineer Associate                           | Active   | 31 Jan 2020 |
-| AZ-305 Azure Solutions Architect Expert                            | Active   | 21 Feb 2023 |
-| SC-400 Information Protection and Compliance Administrator Associate| Active   | 20 Apr 2021   |
-| SC-100 Cybersecurity Architect Expert                              | Active   | 30 Jun 2022    |
-| SC-200 Security Operations Analyst Associate                       | Active   | 03 Sep 2021|
-| PL-900 Power Platform Fundamentals                                 | Active   | 13 Feb 2023|
-| AI-900 Azure AI Fundamentals                                       | Active   | 13 Feb 2023|
-| DP-900 Azure Data Fundamentals                                     | Active   | 12 Feb 2023|
-| MS-900 Microsoft 365 Fundamentals                                            | Active   | 10 Feb 2023|
-| AZ-900 Azure Fundamentals                                          | Active   | 10 Feb 2023|
-| SC-900 Security, Compliance, and Identity Fundamentals             | Active   | 21 Apr 2022   |
-| MS-500 Security Administrator Associate                        | Expired  | 24 Feb 2020|
-| AZ-103 Azure Administrator Associate (Legacy)                      | Expired  | 24 Jan 2020 |
-| MS-700 Teams Administrator Associate                           | Expired  | 09 Dec 2019 |
+| Microsoft Certified: Identity and Access Administrator Associate                 | Active   | 15 Oct 2021 |
+| Microsoft 365 Certified: Administrator Expert                                    | Active   | 30 Oct 2020 |
+| Microsoft Certified: Azure AI Engineer Associate                                 | Active   | 02 Jan 2025  |
+| Microsoft Certified: Azure Administrator Associate                               | Active   | 24 Jan 2020 |
+| Microsoft Certified: Azure Security Engineer Associate                           | Active   | 31 Jan 2020 |
+| Microsoft Certified: Azure Solutions Architect Expert                            | Active   | 21 Feb 2023 |
+| Microsoft Certified: Information Protection and Compliance Administrator Associate| Active   | 20 Apr 2021   |
+| Microsoft Certified: Cybersecurity Architect Expert                              | Active   | 30 Jun 2022    |
+| Microsoft Certified: Security Operations Analyst Associate                       | Active   | 03 Sep 2021|
+| Microsoft Certified: Power Platform Fundamentals                                 | Active   | 13 Feb 2023|
+| Microsoft Certified: Azure AI Fundamentals                                       | Active   | 13 Feb 2023|
+| Microsoft Certified: Azure Data Fundamentals                                     | Active   | 12 Feb 2023|
+| Microsoft 365 Certified: Fundamentals                                            | Active   | 10 Feb 2023|
+| Microsoft Certified: Azure Fundamentals                                          | Active   | 10 Feb 2023|
+| Microsoft Certified: Security, Compliance, and Identity Fundamentals             | Active   | 21 Apr 2022   |
+| Microsoft 365 Certified: Security Administrator Associate                        | Expired  | 24 Feb 2020|
+| Microsoft Certified: Azure Administrator Associate (Legacy)                      | Expired  | 24 Jan 2020 |
+| Microsoft 365 Certified: Teams Administrator Associate                           | Expired  | 09 Dec 2019 |
 
 >“We now accept the fact that learning is a lifelong process of keeping abreast of change. And the most pressing task is to teach people how to learn.”
 >
