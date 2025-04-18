@@ -28,27 +28,27 @@
 
 I have attained the following Microsoft Certifications.  Reach out if you want tips or tricks in passing them too!
 
-| **Certification Name**                                                                 | **Status**   | **Earned On**       |
-|-----------------------------------------------------------------------------------|----------|-----------------|
-| Microsoft Certified Trainer                                                                           | Active   | 03 May 2023      |
-| Microsoft Certified: Identity and Access Administrator Associate                 | Active   | 15 Oct 2021 |
-| Microsoft 365 Certified: Administrator Expert                                    | Active   | 30 Oct 2020 |
-| Microsoft Certified: Azure AI Engineer Associate                                 | Active   | 02 Jan 2025  |
-| Microsoft Certified: Azure Administrator Associate                               | Active   | 24 Jan 2020 |
-| Microsoft Certified: Azure Security Engineer Associate                           | Active   | 31 Jan 2020 |
-| Microsoft Certified: Azure Solutions Architect Expert                            | Active   | 21 Feb 2023 |
-| Microsoft Certified: Information Protection and Compliance Administrator Associate| Active   | 20 Apr 2021   |
-| Microsoft Certified: Cybersecurity Architect Expert                              | Active   | 30 Jun 2022    |
-| Microsoft Certified: Security Operations Analyst Associate                       | Active   | 03 Sep 2021|
-| Microsoft Certified: Power Platform Fundamentals                                 | Active   | 13 Feb 2023|
-| Microsoft Certified: Azure AI Fundamentals                                       | Active   | 13 Feb 2023|
-| Microsoft Certified: Azure Data Fundamentals                                     | Active   | 12 Feb 2023|
-| Microsoft 365 Certified: Fundamentals                                            | Active   | 10 Feb 2023|
-| Microsoft Certified: Azure Fundamentals                                          | Active   | 10 Feb 2023|
-| Microsoft Certified: Security, Compliance, and Identity Fundamentals             | Active   | 21 Apr 2022   |
-| Microsoft 365 Certified: Security Administrator Associate                        | Expired  | 24 Feb 2020|
-| Microsoft Certified: Azure Administrator Associate (Legacy)                      | Expired  | 24 Jan 2020 |
-| Microsoft 365 Certified: Teams Administrator Associate                           | Expired  | 09 Dec 2019 |
+| **Badge** | **Certification Name**                                                                 | **Status**   | **Earned On**       |
+|-----------|-----------------------------------------------------------------------------------|----------|-----------------|
+| ![](images/microsoft-certified-general-badge.svg) | Microsoft Certified Trainer                                                                           | Active   | 03 May 2023      |
+| ![](images/microsoft-certified-associate-badge.svg) | Microsoft Certified: Identity and Access Administrator Associate                 | Active   | 15 Oct 2021 |
+| ![](images/microsoft-certified-expert-badge.svg) | Microsoft 365 Certified: Administrator Expert                                    | Active   | 30 Oct 2020 |
+| ![](images/microsoft-certified-associate-badge.svg) | Microsoft Certified: Azure AI Engineer Associate                                 | Active   | 02 Jan 2025  |
+| ![](images/microsoft-certified-associate-badge.svg) | Microsoft Certified: Azure Administrator Associate                               | Active   | 24 Jan 2020 |
+| ![](images/microsoft-certified-associate-badge.svg) | Microsoft Certified: Azure Security Engineer Associate                           | Active   | 31 Jan 2020 |
+| ![](images/microsoft-certified-expert-badge.svg) | Microsoft Certified: Azure Solutions Architect Expert                            | Active   | 21 Feb 2023 |
+| ![](images/microsoft-certified-associate-badge.svg) | Microsoft Certified: Information Protection and Compliance Administrator Associate| Active   | 20 Apr 2021   |
+| ![](images/microsoft-certified-expert-badge.svg) | Microsoft Certified: Cybersecurity Architect Expert                              | Active   | 30 Jun 2022    |
+| ![](images/microsoft-certified-associate-badge.svg) | Microsoft Certified: Security Operations Analyst Associate                       | Active   | 03 Sep 2021|
+| ![](images/microsoft-certified-fundamentals-badge.svg) | Microsoft Certified: Power Platform Fundamentals                                 | Active   | 13 Feb 2023|
+| ![](images/microsoft-certified-fundamentals-badge.svg) | Microsoft Certified: Azure AI Fundamentals                                       | Active   | 13 Feb 2023|
+| ![](images/microsoft-certified-fundamentals-badge.svg) | Microsoft Certified: Azure Data Fundamentals                                     | Active   | 12 Feb 2023|
+| ![](images/microsoft-certified-fundamentals-badge.svg) | Microsoft 365 Certified: Fundamentals                                            | Active   | 10 Feb 2023|
+| ![](images/microsoft-certified-fundamentals-badge.svg) | Microsoft Certified: Azure Fundamentals                                          | Active   | 10 Feb 2023|
+| ![](images/microsoft-certified-fundamentals-badge.svg) | Microsoft Certified: Security, Compliance, and Identity Fundamentals             | Active   | 21 Apr 2022   |
+| ![](images/microsoft-certified-associate-badge.svg) | Microsoft 365 Certified: Security Administrator Associate                        | Expired  | 24 Feb 2020|
+| ![](images/microsoft-certified-associate-badge.svg) | Microsoft Certified: Azure Administrator Associate (Legacy)                      | Expired  | 24 Jan 2020 |
+| ![](images/microsoft-certified-associate-badge.svg) | Microsoft 365 Certified: Teams Administrator Associate                           | Expired  | 09 Dec 2019 |
 
 >“We now accept the fact that learning is a lifelong process of keeping abreast of change. And the most pressing task is to teach people how to learn.”
 >
