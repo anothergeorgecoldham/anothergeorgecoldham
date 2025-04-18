@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/gcoldham/)
 ![](https://img.shields.io/github/last-commit/anothergeorgecoldham/anothergeorgecoldham?&style=flat-square)
 ![](https://img.shields.io/github/followers/anothergeorgecoldham?label=Follow&style=flat-square)
-![Profile views](https://gpvc.arturio.dev/anothergeorgecoldham)
+
 ## ~$ whoami?
 :office: I am a Cloud Solution Architect specializing in the Microsoft Security Platform at [Microsoft ANZ](https://www.microsoft.com).
 
@@ -15,6 +15,8 @@
 :yellow_heart: My passion lies in making a positive impact on the lives of those around me. I strive to leave every space—virtual or physical—better than I found it.
 
 :headphones: Music fuels my creativity and keeps me grounded.
+
+:loudspeaker: Experienced International Public Speaker combining two passions of travel and adventure, along with speaking and teaching.
 
 :pray: With half my career spent as an educator in IT Networking, Administration, and Security, I found immense joy in teaching and mentoring. I continue to seek opportunities to share knowledge, mentor peers, and inspire others.
 
