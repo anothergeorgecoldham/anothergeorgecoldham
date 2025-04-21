@@ -26,7 +26,7 @@
 >
 >― Muhammad Ali
 
-## Certifications
+## ~$ got certs?
 
 I have attained the following Microsoft Certifications.  Reach out if you want tips or tricks in passing them too!
 
@@ -57,7 +57,7 @@ I have attained the following Microsoft Certifications.  Reach out if you want t
 >
 >― Peter Drucker
 
-## Meetups
+## ~$ meetups
 
 I am co-organiser for the following meetups
 
@@ -65,7 +65,7 @@ I am co-organiser for the following meetups
 - Perth Github Meetup
 - Microsoft Student Accelerator
 
-## Volunteering
+## ~$ I volunteer
 
 - ABCN Mentor to the amazing Kyle!
 - ThinkUKnow facilitator
