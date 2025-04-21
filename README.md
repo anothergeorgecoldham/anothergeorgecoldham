@@ -51,6 +51,7 @@ I have attained the following Microsoft Certifications.  Reach out if you want t
 | ![](images/microsoft-certified-associate-badge.svg) | Microsoft 365 Certified: Security Administrator Associate                        | Expired  | 24 Feb 2020|
 | ![](images/microsoft-certified-associate-badge.svg) | Microsoft Certified: Azure Administrator Associate (Legacy)                      | Expired  | 24 Jan 2020 |
 | ![](images/microsoft-certified-associate-badge.svg) | Microsoft 365 Certified: Teams Administrator Associate                           | Expired  | 09 Dec 2019 |
+| ![](images/github-foundations.png) | GitHub Foundations                          | Active  | 15 Jan 2025 |
 
 >“We now accept the fact that learning is a lifelong process of keeping abreast of change. And the most pressing task is to teach people how to learn.”
 >
