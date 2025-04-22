@@ -64,6 +64,7 @@ I am co-organiser for the following meetups
 - Perth Microsoft Security Meetup
 - Perth Github Meetup
 - Microsoft Student Accelerator
+- Perth Chapter of Global AI Bootcamp
 
 ## ~$ I volunteer
 
